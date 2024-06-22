@@ -10,9 +10,16 @@ SKILLS: Pandas, Seaborn, Matplotlib
 ----------------------------------------------------------------------------------------------------------
 TASK 2: Employment Salaries for different jobroles
 
-DATASET: Employee salaries
+DATASET: Employee salaries Database
 
 DESCRIPTION: This dataset provides valuable insights into the compensation and job roles of employees across various industries and regions.This dataset provides valuable insights into the compensation and job roles of employees across various industries and regions. The project analyzes employee salaries based on job roles, highlighting the highest-paying positions. It also examines employee experience levels, working years, salary details in different currencies, peak job roles, and company sizes. By performing a comprehensive analysis of salary trends, this dataset offers a wealth of information for understanding compensation dynamics across different sectors.
 
 SKILLS: Pandas, Seaborn, Matplotlib
 -----------------------------------------------------------------------------------------------------------
+TASK 3: Red Wine Quality
+
+DATASET: Wine Quality Database
+
+DESCRIPTION: I analyzed the Red Wine Quality dataset, examining the relationship between wine quality and factors like pH levels, density, and chlorides. This analysis provided valuable insights into how these chemical properties influence overall wine quality and enabled me to identify key factors contributing to high-quality wines. I am excited to continue leveraging data analysis techniques to uncover deeper insights in the field of wine quality assessment.
+
+SKILLS: Pandas, Seaborn, Matplotlib
